@@ -35,13 +35,7 @@ nav{
     align-items: center;
     justify-content: center;
 }
-@media(max-width: 700px){
-    .BoxImage{
-        height: 120px;
-        width: 90px;
-        
-    }
-}    
+    
 .BoxText{
     font-style: italic;
     margin-left: 20px;
