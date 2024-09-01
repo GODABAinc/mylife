@@ -70,14 +70,14 @@ a.active, a:hover{
 }
 @media (max-width: 700px){
     .TextLogo {
-        font-size:8px;
+        font-size:12px;
         margin-right: 100pxs;
         padding-left: 0px;
     }
 }
 @media(max-width: 700px){
     nav ul li a{
-        font-size: xx-small;
+        font-size: 10px;
         
     }
 }
