@@ -88,9 +88,6 @@ a.active, a:hover{
     h1{
         font-size: large;
     }
-    .GSbtn{
-        font-size: 10px ;
-    }
 }
 
 h1{
@@ -110,6 +107,16 @@ h1{
 }
 .GSbtn a{
     text-decoration: none;
+}
+@media(max-width: 700px) {
+    .GSbtn{
+        padding: 2px;
+        font-size: 15px;
+        width: 100x;
+        margin-left: 90px;
+        border-radius: 15px;
+        background-color: rgb(7, 229, 192);
+    }
 }
 footer{
     width: 100%;
