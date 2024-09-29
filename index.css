@@ -16,6 +16,9 @@ img{
 nav{
     background: brown;
     height: 80px;
+    position: fixed;
+    width: 100%;
+    z-index: 9999;
 }
 .TextLogo{
     color:white;
